@@ -27,7 +27,7 @@
 ## Courses
 - HTML Fundamentals on the [SoloLearn](sololearn.com) *(completed)*
 <!-- <img src="https://www.sololearn.com/Certificate/1014-15051973/jpg/" width="470px" height="330px" alt="HTML Fundamentals Course Certificate"> -->
-![<img alt="HTML Fundamentals Course Certificate" src="https://www.sololearn.com/Certificate/1014-15051973/jpg/" width="500"/>]
+![<img alt="HTML Fundamentals Course Certificate" src="https://www.sololearn.com/Certificate/1014-15051973/jpg/" width="500px"/>]
 - Python Core on the [SoloLearn](sololearn.com) *(in progress)*
 - Полное руководство по Python3 on the [Udemy](udemy.com) *(in progress)*
 
