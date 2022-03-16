@@ -1,5 +1,6 @@
 # Kirill Petrov
 ## Contact information
+![Contact GIF](enternum.gif)
 - Phone: ```+380 096 090 5928```
 - E-mail: ```kkpetrov.dev@gmail.com```
 - Telegram: [@kk_ppetrov](https://t.me/kk_ppetrov/)
