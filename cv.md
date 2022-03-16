@@ -38,6 +38,8 @@ def factorial(n):
 ## Courses
 - «HTML Fundamentals» on the [SoloLearn](sololearn.com) *(completed)*<br>
 ![HTML Fundamentals Course Certificate](certificate.jpg)
+- «Веб-разработка для начинающих: HTML и CSS» on the [Stepik](stepik.org) *(completed)*<br>
+![Stepik HTML and CSS Course Certificate](stepikcertificate.jpg)
 - «Python Core» on the [SoloLearn](sololearn.com) *(in progress)*
 - «Полное руководство по Python3» on the [Udemy](udemy.com) *(in progress)*
 
